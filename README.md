@@ -1,6 +1,6 @@
 # sba-command-line-git
 
-# This assessment contains 2 parts. Each part is explained below. You will have 60 minutes to complete the entire assessment (Parts 1 and 2).
+# This assessment contains 2 parts. Each part is explained below. You will have 75 minutes to complete the entire assessment (Parts 1 and 2).
 
 ## Part One: Git Basics
 
