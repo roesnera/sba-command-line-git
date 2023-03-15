@@ -1,0 +1,14 @@
+pwd
+ls
+git status
+git pull
+git status
+mkdir folder1
+cd folder1
+touch file1.txt
+echo -e "grapes\napples\noranges\nlimes\nlemons\napples\ngrapes\npears\nberries\nlimes" > file1.txt
+cat file1.txt
+mkdir ../folder2
+cd ../folder2
+echo -e "grapes\ngrapes\napples\noranges\nlimes\nlimes\nlemons\nlemons\ngrapes\npears\npears\nberries" > file2.txt
+exit
